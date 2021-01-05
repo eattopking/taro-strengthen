@@ -1,0 +1,19 @@
+{
+  "name": "taro-strengthen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eattopking/taro-strengthen.git"
+  },
+  "author": "eattopking",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eattopking/taro-strengthen/issues"
+  },
+  "homepage": "https://github.com/eattopking/taro-strengthen#readme"
+}
