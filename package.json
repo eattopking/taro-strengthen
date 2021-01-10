@@ -1,5 +1,5 @@
 {
-  "name": "@tarows/cli",
+  "name": "tarows-cli",
   "version": "1.0.0",
   "description": "",
   "main": "./src/bin/index.js",
