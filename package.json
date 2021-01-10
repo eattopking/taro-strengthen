@@ -1,10 +1,13 @@
 {
-  "name": "taro-strengthen",
+  "name": "@tarows/cli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": ""
+  },
+  "bin": {
+    "tarows": "./src/bin/index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/eattopking/taro-strengthen/issues"
   },
-  "homepage": "https://github.com/eattopking/taro-strengthen#readme"
+  "homepage": "https://github.com/eattopking/taro-strengthen#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^6.2.1",
+    "ora": "^5.2.0"
+  }
 }
